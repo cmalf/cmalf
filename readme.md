@@ -1,5 +1,4 @@
-
-[![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1621655873/Cover_depan_1_zaph6z.png)][1]
+[![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1621657138/frontofme_zwy51v.jpg)][1]
 
 <h2> Hello World, I'm Furqonic 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
@@ -53,3 +52,5 @@ func main() {
 }
 ```
 ---
+
+[![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1621657154/backofme_mftjbj.jpg)]
