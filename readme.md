@@ -21,7 +21,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 <br>
 [![Paypal Furqonic](https://img.shields.io/badge/$-Paypal-informasional.svg?style=flat)](https://paypal.me/caturmahdialfurqon)
 <br>
-[![BSC Furqonic](https://img.shields.io/badge/BSC-0x0cacb28b61d9e4240aad91da5b7ba039a3b563aa-informational.svg?style=flat)](0x0cacb28b61d9e4240aad91da5b7ba039a3b563aa)
+[![BSC Furqonic](https://img.shields.io/badge/BSC-0x0cacb28b61d9e4240aad91da5b7ba039a3b563aa-informational.svg?style=flat)](0x0cacb28b61d9e4240aad91da5b7ba039a3b563aa) [copy text="Copy Address" text="Address Copied!" tag="button"]0x0cacb28b61d9e4240aad91da5b7ba039a3b563aa[/copy]
 <br>
 [![BTC Furqonic](https://img.shields.io/badge/BTC-1FKswVkZzu4qgnJGGBnd63mhVfRKVHgSt1-informational.svg?style=flat)](1FKswVkZzu4qgnJGGBnd63mhVfRKVHgSt1)
 <br>
