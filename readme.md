@@ -1,4 +1,4 @@
-![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1621657138/frontofme_zwy51v.jpg)
+![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1621658674/Me_okk73r.png)
 
 <h2> Hello World, I'm Furqonic 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
