@@ -1,6 +1,6 @@
 ![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1621657138/frontofme_zwy51v.jpg)
 
-<h2> Hello World, I'm Furqonic 👋</h2>
+<h2> Hello World, I'm Furqonflynn 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
 <p><em>Everything About Tecnology and CryptoCurrency <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
