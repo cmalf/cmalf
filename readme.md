@@ -16,7 +16,9 @@
 ## 🤜🏻🤛🏻 Support Me
 
 You can support me and [buy me a coffee][8], if you want. 🙏🏻
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
+<br>
 [![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
 <br>
 
