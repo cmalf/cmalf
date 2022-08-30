@@ -20,7 +20,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
 <br>
 
-[![Paypal Furqonic]([https://img.shields.io/badge/$-Paypal-informasional.svg?style=flat])](https://paypal.me/caturmahdialfurqon)
+[![Paypal Furqonic](https://img.shields.io/badge/$-Paypal-informasional.svg?style=flat)](https://paypal.me/caturmahdialfurqon)
 <br>
 [![BSC Furqonic](https://img.shields.io/badge/BSC-0x0cacb28b61d9e4240aad91da5b7ba039a3b563aa-informational.svg?style=flat)](https://bscscan.com/address/0x0cacb28b61d9e4240aad91da5b7ba039a3b563aa)
 <br>
