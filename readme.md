@@ -1,4 +1,5 @@
-![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1621657154/backofme_mftjbj.jpg)
+![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1716548519/frqone_qvh90t.jpg)
+
 
 <h2> Hi,Furqon Here 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
