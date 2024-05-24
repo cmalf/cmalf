@@ -1,21 +1,20 @@
 ![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1621657138/frontofme_zwy51v.jpg)
 
-<h2> Hello World, I'm Furqonflynn 👋</h2>
+<h2> Hi,Furqon Here 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
-<p><em>Everything About Tecnology and CryptoCurrency <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+<p><em>I just want to share what I know. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
 
 ## 📬 Get in touch
 
 [![GitHub Frqonic](https://img.shields.io/github/followers/caturmahdialfurqon?label=follow%20github&style=flat-square)](https://github.com/caturmahdialfurqon)
-[![Facebook Frqonic](https://img.shields.io/badge/Facebook-CaturM.Alfurqon-informational)](https://facebook.com/catoer.alfurqon)
-[![Telegram Frqonic](https://img.shields.io/badge/Telegram-CeoDocosa-orange)](https://t.me/CeoDocosa)
-[![Twitter Frqonic](https://img.shields.io/badge/Twitter-FurqonicD-blue)](https://twitter.com/FurqonicD)
+[![Telegram](https://img.shields.io/badge/Telegram-@Edwinbagas7-orange)](https://t.me/edwinbagas7)
+[![EMAIL](https://img.shields.io/badge/Email-caturmahdi.alfurqon@icloud.com-blue)](mailto:caturmahdi.alfurqon@icloud.com)
 <br>
 ## 🤜🏻🤛🏻 For Support
 
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+You can support me.
 
 [![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
 <br>
@@ -32,25 +31,32 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 <br>
 
 ### ❗️ Code My Soul.. :') ➡️
-
 ```go
 package main
 
-type Me struct{
-  Code string
-  Job string
-  Best string
-  Twitter string
+import "fmt" 
+
+type Profile struct {
+  Language string
+  Interest string
+  Instagram string
+  Twitter   string
 }
 
 func main() {
-  me := &Me{
-    Job: "I'am a Profesional Teacher For Web Design",
-    Code: "I love Python,Hugh PHP, good NodeJs, JavaScript and Ruby",
-    Best: "Web Design and Pentest",
-    Twitter: "https://twitter.com/FurqonicD"
+  me := &Profile{
+    Language: "PHP,PYTHON,C#,C++,SWIFT,GO,SQL",
+    Interest: "Blockchain,Hackintosh,thinking",
+    Instagram: "@thesilentreal",
+    Twitter:   "@furqonflynn",
   }
-  _ = me
+
+  // Print profile information using formatted string
+  fmt.Printf("Hi! %s.\n", "furqonflynn Here!!!")
+  fmt.Println("I am proficient in:", me.Language)
+  fmt.Println("My interests include:", me.Interest)
+  fmt.Println("Follow me on Instagram:", me.Instagram)
+  fmt.Println("Connect with me on Twitter:", me.Twitter)
 }
 ```
 ---
