@@ -10,8 +10,8 @@
 ## 📬 Get in touch
 
 [![GitHub Frqonic](https://img.shields.io/github/followers/caturmahdialfurqon?label=follow%20github&style=flat-square)](https://github.com/caturmahdialfurqon)
-[![Telegram](https://img.shields.io/badge/Telegram-@Edwinbagas7-orange)](https://t.me/edwinbagas7)
-[![EMAIL](https://img.shields.io/badge/Email-caturmahdi.alfurqon@icloud.com-blue)](mailto:caturmahdi.alfurqon@icloud.com)
+[![Telegram](https://img.shields.io/badge/Telegram-DMme-orange)](https://t.me/edwinbagas7)
+[![EMAIL](https://img.shields.io/badge/Email-caturmahdialfurqon@-blue)](mailto:caturmahdi.alfurqon@icloud.com)
 <br>
 ## 🤜🏻🤛🏻 For Support
 
