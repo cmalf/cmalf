@@ -11,7 +11,7 @@
 
 [![GitHub Frqonic](https://img.shields.io/github/followers/caturmahdialfurqon?label=follow%20github&style=flat-square)](https://github.com/caturmahdialfurqon)
 [![Telegram](https://img.shields.io/badge/Telegram-DMme-orange)](https://t.me/edwinbagas7)
-[![EMAIL](https://img.shields.io/badge/Email-caturmahdialfurqon@-blue)](mailto:caturmahdi.alfurqon@icloud.com)
+[![EMAIL](https://img.shields.io/badge/Email-caturmahdialfurqon-blue)](mailto:caturmahdi.alfurqon@icloud.com)
 <br>
 ## 🤜🏻🤛🏻 For Support
 
@@ -32,6 +32,7 @@ You can support me.
 <br>
 
 ### ❗️ Code My Soul.. :') ➡️
+
 ```go
 package main
 
@@ -46,7 +47,7 @@ type Profile struct {
 
 func main() {
   me := &Profile{
-    Language: "PHP,PYTHON,C#,C++,SWIFT,GO,SQL",
+    Language: "Ruby,Perl,PHP,PYTHON,C#,C++,SWIFT,GO,SQL,Bash",
     Interest: "Blockchain,Hackintosh,thinking",
     Instagram: "@thesilentreal",
     Twitter:   "@furqonflynn",
@@ -60,4 +61,3 @@ func main() {
   fmt.Println("Connect with me on Twitter:", me.Twitter)
 }
 ```
----
