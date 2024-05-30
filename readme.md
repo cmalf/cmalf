@@ -1,5 +1,5 @@
 ![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1716549244/photo_2024-05-24_18.13.35_g9fwb2.jpg)
-[GITHUB PAGES](https://caturmahdialfurqon.github.io/" target="_blank)
+[GITHUB PAGES](https://caturmahdialfurqon.github.io/)
 
 ## Hey there,! Greetings from the other side of the world!👋
 
