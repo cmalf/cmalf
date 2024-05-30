@@ -42,22 +42,22 @@ type Profile struct {
   Language string
   Interest string
   Instagram string
-  Twitter   string
+  Mastodon   string
 }
 
 func main() {
   me := &Profile{
-    Language: "Ruby,Perl,PHP,PYTHON,C#,C++,SWIFT,GO,SQL,Bash",
-    Interest: "Blockchain,Hackintosh,thinking",
+    Language: "HTML, CSS, JavaScript, Python, Java, PHP,Ruby,Perl,GO,SQL,Bash",
+    Interest: "Web Development,Blockchain,Hackintosh,thinking",
     Instagram: "@thesilentreal",
-    Twitter:   "@furqonflynn",
+    Mastodon:   "@furqonflynn",
   }
 
   // Print profile information using formatted string
-  fmt.Printf("Hi! %s.\n", "furqonflynn Here!!!")
+  fmt.Printf("Hi! My Name is%s.\n", "furqonflynn!!!")
   fmt.Println("I am proficient in:", me.Language)
   fmt.Println("My interests include:", me.Interest)
   fmt.Println("Follow me on Instagram:", me.Instagram)
-  fmt.Println("Connect with me on Twitter:", me.Twitter)
+  fmt.Println("Connect with me on Mastodon:", me.Mastodon)
 }
 ```
