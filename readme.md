@@ -1,10 +1,6 @@
 ![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1716549244/photo_2024-05-24_18.13.35_g9fwb2.jpg)
 
 ## Hey there,! Greetings from the other side of the world!👋
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
-<p><em>I just want to share what I know. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-</em></p>
-<br>
 
 ## ❗️Coding is My Canvas... ➡️
 
@@ -47,7 +43,10 @@ func main() {
 go run profile.go
 ```
 <br>
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
+<p><em>I just want to share what I know. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+</em></p>
+<br>
 ## 📬 Get in touch
 
 [![GitHub Frqonic](https://img.shields.io/github/followers/caturmahdialfurqon?label=follow%20github&style=flat-square)](https://github.com/caturmahdialfurqon)
