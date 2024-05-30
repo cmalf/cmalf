@@ -37,9 +37,12 @@ func main() {
 	fmt.Println("Connect with me on Mastodon:", me.Mastodon)
 }
 ```
+
 <br>
+
 ### Just run this code, to see my Profile.
 #### With the command below!
+
 ```bash
 go run profile.go
 ```
