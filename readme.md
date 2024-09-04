@@ -37,12 +37,8 @@ func main() {
 
 <br>
 
-### Just run this code, to see my Profile.
-#### With the command below!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&show_icons=true&bg_color=181818) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-```bash
-go run profile.go
-```
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
 <p><em>I just want to share what I know. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
