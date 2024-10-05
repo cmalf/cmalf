@@ -19,7 +19,7 @@ type Profile struct {
 
 func main() {
 	me := &Profile{
-		Language:  "HTML, CSS, JavaScript, Python, Java, PHP,Ruby,Perl,GO,SQL,Bash.",
+		Language:  "PHP, JavaScript, TypeScript, NodeJS, Python, GO, Ruby, Rust, C, C++, Perl, Bash, SQL, Lua.",
 		Interest:  "Web Scraping,Blockchain,Ethical Hacking,Hackintosh,and Tips&Trick.",
 		Instagram: "@thesilentreal",
 		Mastodon:  "@furqonflynn",
