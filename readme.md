@@ -1,4 +1,4 @@
-![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1716549244/photo_2024-05-24_18.13.35_g9fwb2.jpg)
+![Furqonic](https://i.pinimg.com/originals/27/1a/40/271a40e8e1b536324f1f75aed61e7284.gif)
 [GITHUB PAGES](https://caturmahdialfurqon.github.io/)
 
 ## Hey there,! Greetings from the other side of the world! 🙋🏻‍♂️
