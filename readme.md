@@ -5,33 +5,39 @@
 
 ## ❗️Coding is My Canvas... ➡️
 
-```go
-package main
+```rust
+use std::fmt;
 
-import "fmt"
-
-type Profile struct {
-	Language  string
-	Interest  string
-	Instagram string
-	Mastodon  string
+struct Profile {
+    language: String,
+    interest: String,
+    instagram: String,
+    mastodon: String,
 }
 
-func main() {
-	me := &Profile{
-		Language:  "PHP, JavaScript, TypeScript, NodeJS, Python, GO, Ruby, Rust, C, C++, Perl, Bash, SQL, Lua.",
-		Interest:  "Web Scraping,Blockchain,Ethical Hacking,Hackintosh,and Tips&Trick.",
-		Instagram: "@thesilentreal",
-		Mastodon:  "@furqonflynn",
-	}
+impl fmt::Display for Profile {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "I am proficient in: {}\n", self.language)?;
+        write!(f, "My interests include: {}\n", self.interest)?;
+        write!(f, "Follow me on Instagram: {}\n", self.instagram)?;
+        write!(f, "Connect with me on Mastodon: {}", self.mastodon)
+    }
+}
 
-	// Print profile information using formatted string
-	fmt.Printf("Hi! My Name is %s.\n", "furqonflynn, (call me ‘alfynn) 👋! I just want to share what I know.\n"+
-		"I’m a full stack software engineer passionate about Web Development")
-	fmt.Println("I am proficient in:", me.Language)
-	fmt.Println("My interests include:", me.Interest)
-	fmt.Println("Follow me on Instagram:", me.Instagram)
-	fmt.Println("Connect with me on Mastodon:", me.Mastodon)
+fn main() {
+    let me = Profile {
+        language: String::from("PHP, JavaScript, TypeScript, NodeJS, Python, GO, Ruby, Rust, C, C++, Perl, Bash, SQL, Lua."),
+        interest: String::from("Web Scraping,Blockchain,Ethical Hacking,Hackintosh,and Bot Scripts."),
+        instagram: String::from("@thesilentreal"),
+        mastodon: String::from("@furqonflynn"),
+    };
+
+    // Print profile information using formatted string
+    println!("Hi! My Name is {}.", "furqonflynn, (call me 'alfynn) 👋! I just want to share what I know.\n\
+              I'm a full stack software engineer passionate about Web Development");
+
+    // Print the profile using the `Display` implementation
+    println!("{}", me);
 }
 ```
 
