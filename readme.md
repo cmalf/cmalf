@@ -1,9 +1,10 @@
 ![Furqonic](https://res.cloudinary.com/dlked0a5j/image/upload/v1716549244/photo_2024-05-24_18.13.35_g9fwb2.jpg)
 [GITHUB PAGES](https://caturmahdialfurqon.github.io/)
 
-## Hey there,! Greetings from the other side of the world!👋
+## Hey there,! Greetings from the other side of the world! 🙋🏻‍♂️
+꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷ִֶָ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷
 
-## ❗️Coding is My Canvas... ➡️
+## ❗️Coding is My Canvas... ᝰ.ᐟ
 
 ```rust
 use std::fmt;
@@ -50,15 +51,20 @@ fn main() {
 <p><em>I just want to share what I know. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 <br>
-## 📬 Get in touch
+<br>
+𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒
+
+##  📬 Get in touch
 
 [![GitHub Frqonic](https://img.shields.io/github/followers/caturmahdialfurqon?label=follow%20github&style=flat-square)](https://github.com/caturmahdialfurqon)
 [![Telegram](https://img.shields.io/badge/Telegram-DMme-orange)](https://t.me/edwinbagas7)
 [![EMAIL](https://img.shields.io/badge/Email-caturmahdialfurqon-blue)](mailto:caturmahdi.alfurqon@icloud.com)
 <br>
 
-##  🤜🏻🤛🏻 For Support
+-ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ <br>
 
+##  ☕ Buy Me Coffee!
+𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 <br>
 You can support me.
 
 [![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
@@ -73,3 +79,6 @@ You can support me.
 <br>
 [![LTC Furqonic](https://img.shields.io/badge/MATIC-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
 
+<br>
+
+⊹ ࣪ ﹏𓊝﹏𓂁﹏﹏﹏𓂁﹏﹏﹏﹏﹏𓂁﹏﹏﹏𓂁﹏﹏﹏⊹ ࣪ ˖
