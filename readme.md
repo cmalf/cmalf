@@ -1,11 +1,19 @@
-![Furqonic](https://i.pinimg.com/originals/27/1a/40/271a40e8e1b536324f1f75aed61e7284.gif)
-[GITHUB PAGES](https://caturmahdialfurqon.github.io/)
+<div align=center >
+    
+![Furqonic](https://i.pinimg.com/originals/16/06/f6/1606f694add7c4de0c0e32d657b8188f.gif)
 
-## Hey there,! Greetings from the other side of the world! 🙋🏻‍♂️
+    
+[Flynn Docs](https://caturmahdialfurqon.github.io/)
+
+<div align=center >
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+🙋🏻‍♂️%2C+I'm+Furqonflynn.;I'm+a+full+stack+software+engineer;.....passionate+about+Web+Development."
+/>
+    
 ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷ִֶָ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷
 
-## ❗️Coding is My Canvas... ᝰ.ᐟ
-
+## ᝰ.ᐟ❗️Coding is My Canvas...
+<div align=left >
+    
 ```rust
 use std::fmt;
 
@@ -41,19 +49,20 @@ fn main() {
     println!("{}", me);
 }
 ```
+<div align=center >
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&show_icons=true&bg_color=181818) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
 <p><em>I just want to share what I know. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 <br>
 <br>
 𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫
-
+    
 ##  📬 Get in touch
 
 [![GitHub Frqonic](https://img.shields.io/github/followers/caturmahdialfurqon?label=follow%20github&style=flat-square)](https://github.com/caturmahdialfurqon)
@@ -62,7 +71,7 @@ fn main() {
 <br>
 
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ <br>
-
+    
 ##  ☕ Buy Me Coffee!
 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 <br>
 You can support me.
