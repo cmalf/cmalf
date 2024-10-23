@@ -52,14 +52,16 @@ fn main() {
 
 <br>
 
-<div align=center >
+<div align=left >
 <br>
 <br>
 <br>
 <br>
 
 𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫
-    
+
+<div align=center >
+  
 ##  📬 Get in touch
 
 [![GitHub Frqonic](https://img.shields.io/github/followers/caturmahdialfurqon?label=follow%20github&style=flat-square)](https://github.com/caturmahdialfurqon)
