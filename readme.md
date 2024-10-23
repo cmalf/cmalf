@@ -1,11 +1,8 @@
-<div align=center >
-    
-![Furqonic](https://i.pinimg.com/originals/16/06/f6/1606f694add7c4de0c0e32d657b8188f.gif)
-
-    
+<div align=center>       
+<img src="https://i.pinimg.com/originals/16/06/f6/1606f694add7c4de0c0e32d657b8188f.gif" height="380" width="620">
+  
 [Flynn Docs](https://caturmahdialfurqon.github.io/)
 
-<div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+🙋🏻‍♂️%2C+I'm+Furqonflynn.;I'm+a+full+stack+software+engineer;.....passionate+about+Web+Development."
 />
     
@@ -49,18 +46,14 @@ fn main() {
     println!("{}", me);
 }
 ```
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=highcontrast)](https://git.io/streak-stats) <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&hide_progress=true&theme=highcontrast" height="300" width="380"> 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&theme=vision-friendly-dark&rank_icon=github" width="380">
+
+<br>
+
 <div align=center >
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&show_icons=true&bg_color=181818) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=tokyonight-duo)](https://git.io/streak-stats)
-
-<br>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&show_icons=true&theme=radical" width="380">
-<p><em>I just want to share what I know. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-</em></p>
-<br>
-<br>
 𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫
     
 ##  📬 Get in touch
@@ -78,7 +71,7 @@ You can support me.
 
 [![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
 <br>
-[![Paypal Furqonic](https://img.shields.io/badge/$-Paypal-informasional.svg?style=flat)](https://paypal.me/caturmahdialfurqon)
+[![Paypal.me/caturmahdialfurqon](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/caturmahdialfurqon)
 <br>
 [![BSC Furqonic](https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://etherscan.io/address/0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06)
 <br>
