@@ -35,7 +35,7 @@ function main() {
     );
 
     console.log(`Hi! My Name is \x1b[32mfurqonflynn\x1b[0m, (call me 'alfynn) 👋! I just want to share what I know.\n` +
-                `\x1b[32mI'm a full stack software engineer passionate about Web Development.\x1b[0m\n`);
+                `\x1b[32mI'm a full stack software engineer passionate about Software Development.\x1b[0m\n`);
 
     console.log(me.toString());
 }
