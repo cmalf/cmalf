@@ -1,7 +1,6 @@
 <div align=center> 
   
-<img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImgxdGl0bGUiLCJ0ZXh0IjoiRnVycW9uJTIwRmx5bm4lMjBpcyUyMGhlcmUhIiwiaWF0IjoxNzMwMjQ1ODE3fQ.lNo5BB0IE52pCxQns2rTqj6pgGYCbI4Fgw4JmNuevpg" height="180" width="220">
-<img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InBhcnR5dGltZSIsInRleHQiOiJMZXQncyUyMENvZGUhIiwiaWF0IjoxNzMwMjQ1MDcyfQ.Gr27jNMqi_KpcE8igHtlaIe06UfGlrdCAzjfOJ-Xy28" height="180" width="220">
+<img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImgxdGl0bGUiLCJ0ZXh0IjoiRnVycW9uJTIwRmx5bm4lMjBpcyUyMGhlcmUhJTIwTGV0J3MlMjBDb2RlISIsImlhdCI6MTczMDI0NjExNX0.Ck6TMt3P1A2X_mx-AZMcyzDkqze1cs5hueOurb1es_g" height="180" width="220">
 
 [Flynn Docs](https://caturmahdialfurqon.github.io/)
       
