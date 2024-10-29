@@ -1,12 +1,9 @@
 <div align=center> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=F1F5F7&center=true&width=435&lines=Hey!🙋🏻‍♂️+I'm+furqonflynn..)](https://git.io/typing-svg)
-
 <img src="https://i.pinimg.com/originals/16/06/f6/1606f694add7c4de0c0e32d657b8188f.gif" height="180" width="220">
   
 [Flynn Docs](https://caturmahdialfurqon.github.io/)
       
-꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷ִֶָ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷
 <br> <hr>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...)](https://git.io/typing-svg)
 
