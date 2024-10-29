@@ -1,5 +1,5 @@
 <div align=center>       
-<img src="https://i.pinimg.com/originals/16/06/f6/1606f694add7c4de0c0e32d657b8188f.gif" height="380" width="620">
+<img src="https://i.pinimg.com/originals/16/06/f6/1606f694add7c4de0c0e32d657b8188f.gif" height="180" width="220">
   
 [Flynn Docs](https://caturmahdialfurqon.github.io/)
 
