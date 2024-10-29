@@ -1,14 +1,15 @@
-<div align=center>       
+<div align=center> 
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=F1F5F7&center=true&width=435&lines=Hey!🙋🏻‍♂️+I'm+furqonflynn..)](https://git.io/typing-svg)
+
 <img src="https://i.pinimg.com/originals/16/06/f6/1606f694add7c4de0c0e32d657b8188f.gif" height="180" width="220">
   
 [Flynn Docs](https://caturmahdialfurqon.github.io/)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+🙋🏻‍♂️%2C+I'm+Furqonflynn.;I'm+a+full+stack+software+engineer;.....passionate+about+Web+Development."
-/>
-    
+      
 ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷ִֶָ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷
+<br> <hr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...)](https://git.io/typing-svg)
 
-## ᝰ.ᐟ❗️Coding is My Canvas...
 <div align=left >
     
 ```rust
@@ -47,19 +48,12 @@ fn main() {
 }
 ```
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=highcontrast)](https://git.io/streak-stats) <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&hide_progress=true&theme=highcontrast" height="300" width="380"> 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&theme=vision-friendly-dark&rank_icon=github" width="380">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&hide_progress=true&theme=highcontrast" height="250" width="380"> 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&theme=vision-friendly-dark&rank_icon=github" height="250" width="380">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=highcontrast" height="250" width="380">
 
 <br>
-
-<div align=left >
-<br>
-<br>
-<br>
-<br>
-
-𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫𒄆𒅒𒈔𒅒𒇫
-
 <div align=center >
   
 ##  📬 Get in touch
@@ -70,22 +64,20 @@ fn main() {
 <br>
 
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ <br>
-    
-##  ☕ Buy Me Coffee!
-𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 <br>
-You can support me.
+
+<div align=center >
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=true&lines=Buy+Me+Coffee!....."
+/>
 
 [![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
 <br>
 [![Paypal.me/caturmahdialfurqon](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/caturmahdialfurqon)
 <br>
-[![BSC Furqonic](https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://etherscan.io/address/0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06)
-<br>
-[![BTC Furqonic](https://img.shields.io/badge/BTC-bc1qf8d3fcl4zf08qy3ecz8jyw3cf8y8urd0s2g32s-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
-<br>
-[![DOGE Furqonic](https://img.shields.io/badge/SOL-73hvmQLGmfxXiJqvqiG2MwZReC9H3tFusZJGfffrBHpy-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
-<br>
-[![LTC Furqonic](https://img.shields.io/badge/MATIC-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
+[![ETH ](https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://etherscan.io/address/0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06) <br>
+[![BTC ](https://img.shields.io/badge/BTC-bc1qf8d3fcl4zf08qy3ecz8jyw3cf8y8urd0s2g32s-informational.svg?style=flat)](https://www.blockchain.com/explorer/addresses/btc/bc1qf8d3fcl4zf08qy3ecz8jyw3cf8y8urd0s2g32s)<br>
+[![SOL ](https://img.shields.io/badge/SOL-73hvmQLGmfxXiJqvqiG2MwZReC9H3tFusZJGfffrBHpy-informational.svg?style=flat)](https://solscan.io/account/73hvmQLGmfxXiJqvqiG2MwZReC9H3tFusZJGfffrBHpy)<br>
+[![POL ](https://img.shields.io/badge/MATIC-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://blockscan.com/address/0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06#)
 
 <br>
 
