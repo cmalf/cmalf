@@ -1,7 +1,8 @@
 <div align=center> 
   
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWliM2phZDRraW5pOWY0ZXk2eW4yaGY5Nzk4OGR0MmY2cnV4cGtpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ejfEZhz0nh2kR0SZzn/giphy.webp" height="180" width="220">
-  
+<img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImgxdGl0bGUiLCJ0ZXh0IjoiRnVycW9uJTIwRmx5bm4lMjBpcyUyMGhlcmUhIiwiaWF0IjoxNzMwMjQ1ODE3fQ.lNo5BB0IE52pCxQns2rTqj6pgGYCbI4Fgw4JmNuevpg" height="180" width="220">
+<img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InBhcnR5dGltZSIsInRleHQiOiJMZXQncyUyMENvZGUhIiwiaWF0IjoxNzMwMjQ1MDcyfQ.Gr27jNMqi_KpcE8igHtlaIe06UfGlrdCAzjfOJ-Xy28" height="180" width="220">
+
 [Flynn Docs](https://caturmahdialfurqon.github.io/)
       
 <br> <hr>
