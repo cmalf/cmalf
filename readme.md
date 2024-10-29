@@ -1,56 +1,74 @@
 <div align=center> 
   
-<img src="https://i.pinimg.com/originals/16/06/f6/1606f694add7c4de0c0e32d657b8188f.gif" height="180" width="220">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWliM2phZDRraW5pOWY0ZXk2eW4yaGY5Nzk4OGR0MmY2cnV4cGtpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ejfEZhz0nh2kR0SZzn/giphy.webp" height="180" width="220">
   
 [Flynn Docs](https://caturmahdialfurqon.github.io/)
       
 <br> <hr>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...)](https://git.io/typing-svg)
-
 <div align=left >
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...)](https://git.io/typing-svg)
     
-```rust
-use std::fmt;
+```javascript
+class Profile {
+    constructor(language, interest, instagram, mastodon) {
+        this.language = language;
+        this.interest = interest;
+        this.instagram = instagram;
+        this.mastodon = mastodon;
+    }
 
-struct Profile {
-    language: String,
-    interest: String,
-    instagram: String,
-    mastodon: String,
-}
-
-impl fmt::Display for Profile {
-    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
-        write!(f, "I am proficient in: {}\n", self.language)?;
-        write!(f, "My interests include: {}\n", self.interest)?;
-        write!(f, "Follow me on Instagram: {}\n", self.instagram)?;
-        write!(f, "Connect with me on Mastodon: {}", self.mastodon)
+    toString() {
+        return `\x1b[36mI am proficient in:\x1b[0m ${this.language}\n` +
+               `\x1b[36mMy interests include:\x1b[0m ${this.interest}\n` +
+               `\x1b[36mFollow me on Instagram:\x1b[0m ${this.instagram}\n` +
+               `\x1b[36mConnect with me on Mastodon:\x1b[0m ${this.mastodon}`;
     }
 }
 
-fn main() {
-    let me = Profile {
-        language: String::from("PHP, JavaScript, TypeScript, NodeJS, Python, GO, Ruby, Rust, C, C++, Perl, Bash, SQL, Lua."),
-        interest: String::from("Web Scraping,Blockchain,Ethical Hacking,Hackintosh,and Bot Scripts."),
-        instagram: String::from("@thesilentreal"),
-        mastodon: String::from("@furqonflynn"),
-    };
+function main() {
+    const me = new Profile(
+        "PHP, Java, JavaScript, TypeScript, NodeJS, Python, GO, Ruby, Rust, C, C, C++, Perl, Bash, Lua.",
+        "Web Scraping, Blockchain, Ethical Hacking, Hackintosh, and Bot Scripts.",
+        "@thesilentreal",
+        "@furqonflynn"
+    );
 
-    // Print profile information using formatted string
-    println!("Hi! My Name is {}.", "furqonflynn, (call me 'alfynn) 👋! I just want to share what I know.\n\
-              I'm a full stack software engineer passionate about Web Development");
+    console.log(`Hi! My Name is \x1b[32mfurqonflynn\x1b[0m, (call me 'alfynn) 👋! I just want to share what I know.\n` +
+                `\x1b[32mI'm a full stack software engineer passionate about Web Development.\x1b[0m\n`);
 
-    // Print the profile using the `Display` implementation
-    println!("{}", me);
+    console.log(me.toString());
 }
+
+main();
 ```
- 
+## 🛠️ Languages :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"title="go" alt="golang" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg"title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"title="rust" alt="rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"title="c++" alt="c++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"title="c#" alt="c#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg"title="perl" alt="perl" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"title="lua" alt="lua" width="40" height="40"/>&nbsp;
+
+</div>
+
+## 🔥 Stats :
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&hide_progress=true&theme=highcontrast" height="250" width="380"> 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&theme=vision-friendly-dark&rank_icon=github" height="250" width="380">
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=highcontrast" height="250" width="380">
 
-<br>
+<br> <hr>
 <div align=center >
   
 ##  📬 Get in touch
