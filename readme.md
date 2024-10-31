@@ -1,10 +1,10 @@
-<div align=center> 
-  
-<img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImgxdGl0bGUiLCJ0ZXh0IjoiRnVycW9uJTIwRmx5bm4lMjBpcyUyMGhlcmUhJTIwTGV0J3MlMjBDb2RlISIsImlhdCI6MTczMDI0NjExNX0.Ck6TMt3P1A2X_mx-AZMcyzDkqze1cs5hueOurb1es_g" height="180" width="220">
+<h1 align="center"> <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImgxdGl0bGUiLCJ0ZXh0IjoiRnVycW9uJTIwRmx5bm4lMjBpcyUyMGhlcmUhJTIwTGV0J3MlMjBDb2RlISIsImlhdCI6MTczMDI0NjExNX0.Ck6TMt3P1A2X_mx-AZMcyzDkqze1cs5hueOurb1es_g" height="180" width="220"> </h1>
 
+<div align=center >
+  
 [Flynn Docs](https://caturmahdialfurqon.github.io/)
-      
-<br> <hr>
+  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=caturmahdialfurqon&label=Profile%20views&color=0e75b6&style=flat" alt="caturmahdialfurqon" /> </p>
 <div align=left >
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...)](https://git.io/typing-svg)
@@ -69,6 +69,7 @@ main();
 <img src="https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=highcontrast" height="250" width="380">
 
 <br> <hr>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caturmahdialfurqon" alt="caturmahdialfurqon" /></a> </p>
 <div align=center >
   
 ##  📬 Get in touch
