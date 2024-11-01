@@ -49,7 +49,7 @@ main();
   <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/ruby/ruby-original.svg" title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
