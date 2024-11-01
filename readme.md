@@ -103,6 +103,4 @@ main
 
 ⊹ ࣪ ﹏𓊝﹏𓂁﹏﹏﹏𓂁﹏﹏﹏﹏﹏𓂁﹏﹏﹏𓂁﹏﹏﹏⊹ ࣪ ˖
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caturmahdialfurqon&show_owner=false&theme=github_dark&repo=github-profile-generator)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caturmahdialfurqon&show_owner=false&theme=github_dark&repo=github-stats-generator)](https://github.com/anuraghazra/github-readme-stats)
-
 
