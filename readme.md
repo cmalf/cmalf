@@ -9,38 +9,38 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...)](https://git.io/typing-svg)
     
-```javascript
-class Profile {
-    constructor(language, interest, instagram, mastodon) {
-        this.language = language;
-        this.interest = interest;
-        this.instagram = instagram;
-        this.mastodon = mastodon;
-    }
+```ruby
+class Profile
+  def initialize(language, interest, instagram, mastodon)
+    @language = language
+    @interest = interest
+    @instagram = instagram
+    @mastodon = mastodon
+  end
 
-    toString() {
-        return `\x1b[36mI am proficient in:\x1b[0m ${this.language}\n` +
-               `\x1b[36mMy interests include:\x1b[0m ${this.interest}\n` +
-               `\x1b[36mFollow me on Instagram:\x1b[0m ${this.instagram}\n` +
-               `\x1b[36mConnect with me on Mastodon:\x1b[0m ${this.mastodon}`;
-    }
-}
+  def to_s
+    "I am proficient in: #{@language}\n" +
+    "My interests include: #{@interest}\n" +
+    "Follow me on Instagram: #{@instagram}\n" +
+    "Connect with me on Mastodon: #{@mastodon}"
+  end
+end
 
-function main() {
-    const me = new Profile(
-        "PHP, Java, JavaScript, TypeScript, NodeJS, Python, GO, Ruby, Rust, C, C, C++, Perl, Bash, Lua.",
-        "Web Scraping, Blockchain, Ethical Hacking, Hackintosh, and Bot Scripts.",
-        "@thesilentreal",
-        "@furqonflynn"
-    );
+def main
+  me = Profile.new(
+    "PHP, Java, JavaScript, TypeScript, NodeJS, Python, GO, Ruby, Rust, C, C, C++, Perl, Bash, Lua.",
+    "Web Scraping, Blockchain, Ethical Hacking, Hackintosh, and Bot Scripts.",
+    "@thesilentreal",
+    "@furqonflynn"
+  )
 
-    console.log(`Hi! My Name is \x1b[32mfurqonflynn\x1b[0m, (call me 'alfynn) 👋! I just want to share what I know.\n` +
-                `\x1b[32mI'm a full stack software engineer passionate about Software Development.\x1b[0m\n`);
+  puts "Hi! My Name is furqonflynn, (call me 'alfynn) 👋! I just want to share what I know.\n" +
+       "I'm a full stack software engineer passionate about Software Development.\n"
 
-    console.log(me.toString());
-}
+  puts me.to_s
+end
 
-main();
+main
 ```
 
 ## 🛠️ ʟᴀɴɢᴜᴀɢᴇꜱ
