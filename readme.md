@@ -63,7 +63,7 @@ main();
 
 ## 🔥 Stats :
 [![caturmahdialfurqon GitHub stats](https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&theme=vision-friendly-dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=caturmahdialfurqon&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=caturmahdialfurqon&theme=highcontrast&hide_border=false)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&layout=compact&hide_progress=false&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> <hr>
