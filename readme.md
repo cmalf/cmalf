@@ -44,29 +44,27 @@ main();
 ```
 ## 🛠️ Languages :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"title="java" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"title="go" alt="golang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg"title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"title="rust" alt="rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"title="c++" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"title="c#" alt="c#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg"title="perl" alt="perl" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"title="lua" alt="lua" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/ruby/ruby-original.svg" title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/csharp/csharp-original.svg" title="c#" alt="c#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/perl/perl-original.svg" title="perl" alt="perl" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/caturmahdialfurqon/Icon-langs-and-socials/blob/main/src/Langs/lua/lua-original.svg" title="lua" alt="lua" width="40" height="40"/>&nbsp;
 </div>
 
 ## 🔥 Stats :
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&hide_progress=true&theme=highcontrast" height="250" width="380"> 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&theme=vision-friendly-dark&rank_icon=github" height="250" width="380">
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=caturmahdialfurqon&theme=highcontrast" height="250" width="380">
+[![caturmahdialfurqon GitHub stats](https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&theme=vision-friendly-dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=caturmahdialfurqon&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&layout=compact&hide_progress=false&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caturmahdialfurqon" alt="caturmahdialfurqon" /></a> </p>
@@ -83,7 +81,7 @@ main();
 
 <div align=center >
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=true&lines=Buy+Me+Coffee!....."
+<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=true&lines=Buy+Me+Coffee!"
 />
 
 [![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
@@ -98,3 +96,7 @@ main();
 <br>
 
 ⊹ ࣪ ﹏𓊝﹏𓂁﹏﹏﹏𓂁﹏﹏﹏﹏﹏𓂁﹏﹏﹏𓂁﹏﹏﹏⊹ ࣪ ˖
+
+
+
+
