@@ -1,15 +1,16 @@
+<!-- sec-h1 -->
 [tittle]: https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImgxdGl0bGUiLCJ0ZXh0IjoiRnVycW9uJTIwRmx5bm4lMjBpcyUyMGhlcmUhJTIwTGV0J3MlMjBDb2RlISIsImlhdCI6MTczMDI0NjExNX0.Ck6TMt3P1A2X_mx-AZMcyzDkqze1cs5hueOurb1es_g
 [flynndocs]:https://caturmahdialfurqon.github.io
 [badge]: https://awesome.re/badge.svg
 [typ-txt-lk]: https://readme-typing-svg.demolab.com
 [h2]: https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...
-[sec-stats]: https
+<!-- [sec-stats] -->
 [stt-lk]: https://github.com/anuraghazra/github-readme-stats
 [strk-lk]: https://git.io/streak-stats
 [stats]: https://github-readme-stats.vercel.app/api?username=caturmahdialfurqon&theme=vision-friendly-dark&rank_icon=github
 [streak]: https://streak-stats.demolab.com?user=caturmahdialfurqon&theme=highcontrast&hide_border=false
 [toplang]: https://github-readme-stats.vercel.app/api/top-langs/?username=caturmahdialfurqon&layout=compact&hide_progress=false&theme=highcontrast
-[sec-langs-skill]: https
+<!-- [sec-skill] -->
 [bash]: https://img.shields.io/badge/Shell_script-121011.svg?logo=gnu-bash&logoColor=white
 [php]: https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white
 [py]: https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white
@@ -25,7 +26,7 @@
 [c++]: https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white
 [pl]: https://img.shields.io/badge/Perl-39457E.svg?logo=perl&logoColor=white
 [lua]: https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white
-[sec-sosial]: https
+<!-- [sec-sosial] -->
 [ig-lk]: https://instagram.com/thesilentreal
 [trd-lk]: https://threads.net/thesilentreal
 [x-lk]: https://x.com/furqonflynn
@@ -40,7 +41,7 @@
 [gh]: https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white
 [email]: mailto:caturmahdi.alfurqon@icloud.com
 [email-badge]:https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white
-[sec-support]: https
+<!-- Support -->
 [coffee]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee!  
 [support]: https://paypal.me/caturmahdialfurqon
 [support-badge]: https://img.shields.io/badge/I'APPRECIATE'YOUR-SUPPORT-succsess.svg?&color=FF8C00&style=plastic
