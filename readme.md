@@ -41,7 +41,7 @@
 [x-lk]: https://x.com/furqonflynn
 [dc-lk]: https://discord.com/user/furqonflynn
 [tg-lk]: https://telegram.me/furqonflynn
-[ms-lk]: [https://](https://mastodon.social/@furqonflynn)
+[ms-lk]: https://mastodon.social/@furqonflynn
 [gh-lk]: https://github.com/caturmahdialfurqon
 [ig]: https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white
 [trd]: https://img.shields.io/badge/Threads-000033.svg?style=for-the-badge&logo=threads&logoColor=white
