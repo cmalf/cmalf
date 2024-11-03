@@ -108,7 +108,7 @@ Feel free to reach out if you have any `questions` or want to `collaborate.` <hr
 [![stt-lk][tl]][stt-lk] <hr>
 <!------------------------trophy------------------------
 [![gh-lk][tr]][gh-lk]
-<!-- [![tph-lk][tph]][tph-lk] -->
+[![tph-lk][tph]][tph-lk] -->
 <!------------------------contact----------------------->
 [![gh-lk][cn]][gh-lk] <br>
 [![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![tg-lk][tg]][tg-lk] [![gh-lk][gh]][gh-lk] [![ml][ml-b]][ml]
