@@ -1,4 +1,4 @@
-<!---------------------------------------------------------->
+<!---------------------START------------------------------>
 [t3]: https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImgxdGl0bGUiLCJ0ZXh0IjoiRnVycW9uJTIwRmx5bm4lMjBpcyUyMGhlcmUhJTIwTGV0J3MlMjBDb2RlISIsImlhdCI6MTczMDI0NjExNX0.Ck6TMt3P1A2X_mx-AZMcyzDkqze1cs5hueOurb1es_g
 [fd]:https://caturmahdialfurqon.github.io
 [tp-tx-lk]: https://readme-typing-svg.demolab.com
@@ -71,23 +71,20 @@
 [tph]: https://github-profile-trophy.vercel.app/?username=caturmahdialfurqon&theme=chalk&no-bg=true&margin-w=15
 [flynn]: https://img.shields.io/badge/Github_Pages:-Flynn_Docs-informational.svg?&color=B22222&style=plastic
 [gp]: https://img.shields.io/badge/Github_Page:-Flynn_Docs-100000.svg?logo=github&logoColor=white&color=B22222
-<!---------------------------------------------------------->
-<div align="right">
+<!-------END-Configuration--------STARTING_h1----------->
+
+<div align="center">
   
 [![vs-lk][vws]][vs-lk]
-[![fd][gp]][fd]
-
-<div align=center >
-  
+[![fd][gp]][fd] <br><br>
 <!--[![gh-lk][t3]][gh-lk]-->
-<!----------------------------------------------------------> 
-<!-- me-and-gale -->
+<!-----------------------me-and-gale--------------------> 
 [<img src="https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506" title="prompt=(anime art of A man carefully cleaning his pet frog's tank, ensuring its health and happiness:1.2), masterpiece, 4k, best quality, anime art
 negativePrompt=(worst quality, low quality:1.3), , low-quality, deformed, text, poorly drawn, hilariously bad drawing, bad 3D render
 guidanceScale=7
 seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://www.instagram.com/stories/highlights/17945324393890000/) [<img src="galebino/galebino-2.jpeg" title="galebino" alt="packman_frog" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://www.instagram.com/stories/highlights/17945324393890000/) <br>
 𝘐 𝘢𝘥𝘰𝘳𝘦 𝘩𝘪𝘮 ⤴
-<!-- about-me -->
+<!------------------------about-me---------------------->
 <div align=left > <hr>
 
 Hey there! 👋🏼 I'm `Furqonflynn.`
@@ -97,33 +94,28 @@ I'm a regular developer with a passion for learning and creating. <br> for me, e
 When I'm not coding, I enjoy caring for my pet frog, `Galebino,` and playing with my pet `cockroaches`. <br> But when I'm in front of a computer, coding is where I truly come alive.
 
 Feel free to reach out if you have any `questions` or want to `collaborate.` <hr>
-<!---------------------------------------------------------->
-<!-- skill -->
+<!------------------------skill------------------------->
 [![tp-tx-lk][h2]][tp-tx-lk] <br>
 ![sk] <br><br>
-![skm] ![ar] <br><br> [![gh-lk][bash]][gh-lk] [![gh-lk][php]][gh-lk] [![gh-lk][py]][gh-lk] [![gh-lk][js]][gh-lk] [![gh-lk][ts]][gh-lk] [![gh-lk][njs]][gh-lk] [![gh-lk][go]][gh-lk] [![gh-lk][rb]][gh-lk] ![ar] <br><br> [![gh-lk][pl]][gh-lk] [![gh-lk][lua]][gh-lk] <br><br>
-![mr-sklst] ![ar] <br><br> [![gh-lk][jv]][gh-lk] [![gh-lk][c]][gh-lk] [![gh-lk][c#]][gh-lk] [![gh-lk][c++]][gh-lk] [![gh-lk][rs]][gh-lk] <br><br>
+![skm] ![ar] <br><br> [![gh-lk][bash]][gh-lk] [![gh-lk][php]][gh-lk] [![gh-lk][py]][gh-lk] [![gh-lk][js]][gh-lk] [![gh-lk][ts]][gh-lk] [![gh-lk][njs]][gh-lk] [![gh-lk][go]][gh-lk] [![gh-lk][rb]][gh-lk] [![gh-lk][pl]][gh-lk] [![gh-lk][lua]][gh-lk] <hr>
+![mr-sklst] ![ar] <br><br> [![gh-lk][jv]][gh-lk] [![gh-lk][c]][gh-lk] [![gh-lk][c#]][gh-lk] [![gh-lk][c++]][gh-lk] [![gh-lk][rs]][gh-lk] <hr>
 ![m-trs] ![ar] <br><br> ![wc] ![blk] ![eh] ![hck] ![bs]
 <hr>
 
-<!---------------------------------------------------------->
-<!-- stats --> 
+<!------------------------stats------------------------->
 [![gh-lk][st]][gh-lk] <br>
 [![stt-lk][stts]][stt-lk]
 [![str-lk][strk]][str-lk]
 [![stt-lk][tl]][stt-lk] <hr>
-<!---------------------------------------------------------->
-<!-- trophy 
+<!------------------------trophy------------------------
 [![gh-lk][tr]][gh-lk]
 <!-- [![tph-lk][tph]][tph-lk] -->
-<!---------------------------------------------------------->
-<!-- contact -->
+<!------------------------contact----------------------->
 [![gh-lk][cn]][gh-lk] <br>
 [![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![tg-lk][tg]][tg-lk] [![gh-lk][gh]][gh-lk] [![ml][ml-b]][ml]
-<!---------------------------------------------------------->
-<!-- support -->
+<!------------------------support----------------------->
 [![tp-tx-lk][cff]][tp-tx-lk] <br>
 [![Pypl][pypl-b]][pypl] <br> [![eth-pol][ethx]][eth-pol] <br> [![btc][btc-b]][btc] <br> [![sol][sol-b]][sol] <br> [![eth-pol][pol-b]][eth-pol] <br> [![spp][spp-b]][spp] <hr>
-<!---------------------------------------------------------->
+<!-------------------------END-------------------------->
 
 
