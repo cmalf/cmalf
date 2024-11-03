@@ -54,23 +54,22 @@
 [ml-b]:https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [cff]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee!  
 [spp]: https://paypal.me/caturmahdialfurqon
-[spp-b]: https://img.shields.io/badge/I'APPRECIATE'YOUR-SUPPORT-succsess.svg?&color=FF8C00&style=for-the-badge&
+[spp-b]: https://img.shields.io/badge/I_APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00
 [pypl]: https://paypal.me/caturmahdialfurqon
 [eth-pol]: https://raw.githubusercontent.com/caturmahdialfurqon/caturmahdialfurqon/refs/heads/main/QR-Code/eth-pol-address-qrcode.png
 [btc]: https://raw.githubusercontent.com/caturmahdialfurqon/caturmahdialfurqon/refs/heads/main/QR-Code/btc-address-qrcode.png
 [sol]: https://raw.githubusercontent.com/caturmahdialfurqon/caturmahdialfurqon/refs/heads/main/QR-Code/benice.sol-address-qrcode.png
-[pypl-b]: https://img.shields.io/badge/Paypal-00457C.svg?style=for-the-badge&logo=paypal&logoColor=white
-[eth-b]: https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=for-the-badge&color=blue
-[ethx]: https://img.shields.io/badge/Ethereum-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
-[btc-b]: https://img.shields.io/badge/Bitcoin-bc1qf8d3fcl4zf08qy3ecz8jyw3cf8y8urd0s2g32s-FF8C00.svg?style=for-the-badge&logo=bitcoin&logoColor=white
-[sol-b]: https://img.shields.io/badge/SOL-73hvmQLGmfxXiJqvqiG2MwZReC9H3tFusZJGfffrBHpy-informational.svg?style=for-the-badge&color=9B59B6
-[pol-b]: https://img.shields.io/badge/MATIC-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=for-the-badge&color=cyan
+[pypl-b]: https://img.shields.io/badge/Paypal-00457C.svg?&style=for-the-badge&logo=paypal&logoColor=white
+[eth-b]: https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?&style=for-the-badge&color=blue
+[ethx]: https://img.shields.io/badge/Ethereum-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-blue?&style=for-the-badge&logo=Ethereum&logoColor=blue
+[btc-b]: https://img.shields.io/badge/Bitcoin-bc1qf8d3fcl4zf08qy3ecz8jyw3cf8y8urd0s2g32s-FF8C00.svg?&style=for-the-badge&logo=bitcoin&logoColor=FF8C00
+[sol-b]: https://img.shields.io/badge/SOL-73hvmQLGmfxXiJqvqiG2MwZReC9H3tFusZJGfffrBHpy-9B59B6.svg?&style=for-the-badge&logo=solana&logoColor=9B59B6
+[pol-b]: https://img.shields.io/badge/POL-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-cyan.svg?&style=for-the-badge&logo=POLYGON&logoColor=cyan
 [vs-lk]: https://github.com/antonkomarev/github-profile-views-counter
-[vws]: https://komarev.com/ghpvc/?username=caturmahdialfurqon&label=Profile%20views&color=FF8C00&style=plastic
+[vws]: https://komarev.com/ghpvc/?username=caturmahdialfurqon&label=Profile%20views&color=00CED1&style=plastic
 [tph-lk]: https://github.com/ryo-ma/github-profile-trophy
 [tph]: https://github-profile-trophy.vercel.app/?username=caturmahdialfurqon&theme=chalk&no-bg=true&margin-w=15
-[flynn]: https://img.shields.io/badge/Github_Pages:-Flynn_Docs-informational.svg?&color=B22222&style=plastic
-[gp]: https://img.shields.io/badge/Github_Page:-Flynn_Docs-100000.svg?logo=github&logoColor=white&color=B22222
+[gp]: https://img.shields.io/badge/Github_Page:-Flynn_Docs-B22222.svg?logo=github&logoColor=white&color=B22222
 <!-------END-Configuration--------STARTING_h1----------->
 
 <div align="center">
