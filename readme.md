@@ -86,7 +86,7 @@ I'm a regular developer with a passion for learning and creating. <br> for me, e
 
 When I'm not coding, I enjoy caring for my pet frog, `Galebino,` and playing with my pet `cockroaches`. <br> But when I'm in front of a computer, coding is where I truly come alive.
 
-😊 Feel free to reach out if you have any `questions` or want to `collaborate.` <hr>
+Feel free to reach out if you have any `questions` or want to `collaborate.` <hr>
 <!---------------------------------------------------------->
 <!-- skill -->
 [![tp-tx-lk][h2]][tp-tx-lk] <br>
