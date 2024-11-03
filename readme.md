@@ -3,7 +3,7 @@
 [fd]:https://caturmahdialfurqon.github.io
 [tp-tx-lk]: https://readme-typing-svg.demolab.com
 [h2]: https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=%E1%9D%B0.%E1%90%9F%E2%9D%97%EF%B8%8FCoding+is+My+Canvas...
-[sk]: https://img.shields.io/badge/Skills-Programming_Languages-informational.svg?&color=cyan&style=plastic
+[sk]: https://img.shields.io/badge/Skills-Programming_Languages-informational.svg?&color=B22222&style=plastic
 [skm]: https://img.shields.io/badge/I'm%20proficient%20in%20:%20-cyan
 [mr-sklst]: https://img.shields.io/badge/Currently%20expanding%20my%20skillset%20to%20include%20:%20-cyan
 [m-trs]: https://img.shields.io/badge/My_interests_include_:_-cyan
@@ -77,22 +77,26 @@
 [![vs-lk][vws]][vs-lk]
 [![fd][gp]][fd] <br><br>
 <!--[![gh-lk][t3]][gh-lk]-->
-<!-----------------------me-and-gale--------------------> 
+<!-----------------------me-and-gale-------------------->
 [<img src="https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506" title="prompt=(anime art of A man carefully cleaning his pet frog's tank, ensuring its health and happiness:1.2), masterpiece, 4k, best quality, anime art
 negativePrompt=(worst quality, low quality:1.3), , low-quality, deformed, text, poorly drawn, hilariously bad drawing, bad 3D render
 guidanceScale=7
-seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://www.instagram.com/stories/highlights/17945324393890000/) [<img src="galebino/galebino-2.jpeg" title="galebino" alt="packman_frog" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://www.instagram.com/stories/highlights/17945324393890000/) <br>
-𝘐 𝘢𝘥𝘰𝘳𝘦 𝘩𝘪𝘮 ⤴
+seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://github-production-user-asset-6210df.s3.amazonaws.com/69003304/382515524-93f783fe-2563-4ba3-a378-b47c49119506.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T032407Z&X-Amz-Expires=300&X-Amz-Signature=84c6096f68828ffaf6484be869c88eabb3492302d65f2ca2287eb1bd6ec9a77f&X-Amz-SignedHeaders=host) [<img src="galebino/galebino-2.jpeg" title="I adopted Galebino as a tiny pacman frog tadpole on June 16, 2023. It's been a joy watching him grow." alt="packman_frog" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://www.instagram.com/stories/highlights/17945324393890000/) <br>
+𝘐 𝘢𝘥𝘰𝘳𝘦 𝘩𝘪𝘮 [𓂋⤴](https://raw.githubusercontent.com/caturmahdialfurqon/caturmahdialfurqon/refs/heads/main/galebino/galebino-2.jpeg)
 <!------------------------about-me---------------------->
 <div align=left > <hr>
 
-Hey there! 👋🏼 I'm `Furqonflynn.`
+Greetings, fellow code conjurer! 👋 <br>
 
-I'm a regular developer with a passion for learning and creating. <br> for me, every line of code is an adventure.
+I'm `Furqonflynn`, a digital alchemist who spends my days weaving intricate digital tapestries and herding the elusive ones and zeros. <br> When I'm not immersed in the magical world of code, you might find me tending to my trusty companion, `Galebino` the frog. 🐸 <br>
 
-When I'm not coding, I enjoy caring for my pet frog, `Galebino,` and playing with my pet `cockroaches`. <br> But when I'm in front of a computer, coding is where I truly come alive.
+I'm a passionate developer who believes that every line of code is a brushstroke on the canvas of innovation. 🎨 <br>
 
-Feel free to reach out if you have any `questions` or want to `collaborate.` <hr>
+Feeling stuck in a coding rut? Let's break free together and embark on a new coding adventure! <br>
+
+Need a helping hand with your digital sorcery? Don't hesitate to reach out.<br> I'm always eager to share knowledge and collaborate on exciting projects.<br>
+
+Let's create something extraordinary together! 💫 <hr>
 <!------------------------skill------------------------->
 [![tp-tx-lk][h2]][tp-tx-lk] <br>
 ![sk] <br><br>
