@@ -51,7 +51,7 @@
 [gh]: https://img.shields.io/badge/Github-100000.svg?style=for-the-badge&logo=github&logoColor=white
 [ms]: https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white
 [ml]: mailto:caturmahdi.alfurqon@icloud.com
-[ml-b]:https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[ml-b]:https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [cff]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee!  
 [spp]: https://paypal.me/cmalf
 [spp-b]: https://img.shields.io/badge/I_APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00
@@ -115,7 +115,7 @@ Let's create something extraordinary together! 💫 <hr>
 [![tph-lk][tph]][tph-lk] -->
 <!------------------------contact----------------------->
 [![gh-lk][cn]][gh-lk] <br>
-[![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![tg-lk][tg]][tg-lk] [![gh-lk][gh]][gh-lk] [![ml][ml-b]][ml]
+[![tg-lk][tg]][tg-lk] [![ml][ml-b]][ml] [![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![gh-lk][gh]][gh-lk]
 <!------------------------support----------------------->
 [![tp-tx-lk][cff]][tp-tx-lk] <br>
 [![Pypl][pypl-b]][pypl] <br> [![eth-pol][ethx]][eth-pol] <br> [![btc][btc-b]][btc] <br> [![sol][sol-b]][sol] <br> [![eth-pol][pol-b]][eth-pol] <br> [![spp][spp-b]][spp] <hr>
