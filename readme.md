@@ -39,7 +39,7 @@
 [ig-lk]: https://instagram.com/thesilentreal
 [trd-lk]: https://threads.net/thesilentreal
 [x-lk]: https://x.com/furqonflynn
-[dc-lk]: https://discord.com/user/furqonflynn
+[dc-lk]: https://discord.com/user/968987915596202065
 [tg-lk]: https://telegram.me/furqonflynn
 [ms-lk]: https://mastodon.social/@furqonflynn
 [gh-lk]: https://github.com/cmalf
