@@ -55,7 +55,7 @@
 [cff]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee!  
 [spp]: https://paypal.me/cmalf
 [spp-b]: https://img.shields.io/badge/I_APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00
-[pypl]: https://paypal.me/cmalf
+[pypl]: https://paypal.me/caturmahdialfurqon
 [eth-pol]: https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/QR-Code/eth-pol-address-qrcode.png
 [btc]: https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/QR-Code/btc-address-qrcode.png
 [sol]: https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/QR-Code/benice.sol-address-qrcode.png
