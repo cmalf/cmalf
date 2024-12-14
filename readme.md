@@ -53,7 +53,7 @@
 [ml]: mailto:caturmahdi.alfurqon@icloud.com
 [ml-b]:https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [cff]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee!  
-[spp]: https://paypal.me/cmalf
+[spp]: https://paypal.me/caturmahdialfurqon
 [spp-b]: https://img.shields.io/badge/I_APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00
 [pypl]: https://paypal.me/caturmahdialfurqon
 [eth-pol]: https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/QR-Code/eth-pol-address-qrcode.png
