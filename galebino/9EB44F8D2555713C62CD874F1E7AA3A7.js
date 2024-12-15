@@ -1,3 +1,6 @@
-const linkPassword = 'https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/galebino/9EB44F8D2555713C62CD874F1E7AA3A7.js':
-const correctPassword = 'This premium script will be published when the repository gets 25 stars, regard furqonflynn {getgrass-bot-premium}';
-const correctMD5Hash = 'E0E548086DB4DEE813D52E7AC0B776E8';
+const quoteWelcome = {
+	quotesha: 'VGhpcyBwcmVtaXVtIHNjcmlwdCB3aWxsIGJlIHB1Ymxpc2hlZCB3aGVuIHRoZSByZXBvc2l0b3J5IGdldHMgMjUgc3RhcnMsIHJlZ2FyZCBmdXJxb25mbHlubiB7Z2V0Z3Jhc3MtYm90LXByZW1pdW19',
+	quote256: 'RTBFNTQ4MDg2REI0REVFODEzRDUyRTdBQzBCNzc2RTg',
+};
+
+module.exports = quoteWelcome;
