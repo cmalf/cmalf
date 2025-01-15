@@ -100,8 +100,8 @@ Let's create something extraordinary together! 💫 <hr>
 <!------------------------skill------------------------->
 [![tp-tx-lk][h2]][tp-tx-lk] <br>
 ![sk] <br><br>
-![skm] ![ar] <br><br> [![gh-lk][bash]][gh-lk] [![gh-lk][php]][gh-lk] [![gh-lk][py]][gh-lk] [![gh-lk][js]][gh-lk] [![gh-lk][ts]][gh-lk] [![gh-lk][njs]][gh-lk] [![gh-lk][go]][gh-lk] [![gh-lk][rb]][gh-lk] [![gh-lk][pl]][gh-lk] [![gh-lk][lua]][gh-lk] [![gh-lk][jv]][gh-lk] <hr>
-![mr-sklst] ![ar] <br><br> [![gh-lk][c]][gh-lk] [![gh-lk][c#]][gh-lk] [![gh-lk][c++]][gh-lk] [![gh-lk][rs]][gh-lk] <hr>
+![skm] ![ar] <br><br> [![gh-lk][bash]][gh-lk] [![gh-lk][php]][gh-lk] [![gh-lk][py]][gh-lk] [![gh-lk][js]][gh-lk] [![gh-lk][ts]][gh-lk] [![gh-lk][njs]][gh-lk] [![gh-lk][go]][gh-lk] [![gh-lk][rb]][gh-lk] [![gh-lk][pl]][gh-lk] [![gh-lk][lua]][gh-lk] [![gh-lk][jv]][gh-lk]  [![gh-lk][rs]][gh-lk] <hr>
+![mr-sklst] ![ar] <br><br> [![gh-lk][c]][gh-lk] [![gh-lk][c#]][gh-lk] [![gh-lk][c++]][gh-lk] <hr>
 ![m-trs] ![ar] <br><br> ![wc] ![blk] ![eh] ![hck] ![bs]
 <hr>
 
