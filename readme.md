@@ -110,7 +110,7 @@ Let's create something extraordinary together! 💫 <hr>
 [![stt-lk][stts]][stt-lk]
 [![str-lk][strk]][str-lk]
 [![stt-lk][tl]][stt-lk] <hr>
-<!------------------------trophy------------------------>
+<!------------------------trophy------------------------
 [![gh-lk][tr]][gh-lk]
 [![tph-lk][tph]][tph-lk]
 <!------------------------contact----------------------->
