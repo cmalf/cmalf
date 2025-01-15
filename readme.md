@@ -56,9 +56,9 @@
 [spp]: https://paypal.me/caturmahdialfurqon
 [spp-b]: https://img.shields.io/badge/I_APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00
 [pypl]: https://paypal.me/caturmahdialfurqon
-[eth-pol]: https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/QR-Code/eth-pol-address-qrcode.png
-[btc]: https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/QR-Code/btc-address-qrcode.png
-[sol]: https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/QR-Code/benice.sol-address-qrcode.png
+[eth-pol]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Support.md
+[btc]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Support.md
+[sol]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Support.md
 [pypl-b]: https://img.shields.io/badge/Paypal-00457C.svg?&style=for-the-badge&logo=paypal&logoColor=white
 [eth-b]: https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?&style=for-the-badge&color=blue
 [ethx]: https://img.shields.io/badge/Ethereum-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-blue?&style=for-the-badge&logo=Ethereum&logoColor=blue
@@ -110,9 +110,9 @@ Let's create something extraordinary together! 💫 <hr>
 [![stt-lk][stts]][stt-lk]
 [![str-lk][strk]][str-lk]
 [![stt-lk][tl]][stt-lk] <hr>
-<!------------------------trophy------------------------
+<!------------------------trophy------------------------>
 [![gh-lk][tr]][gh-lk]
-[![tph-lk][tph]][tph-lk] -->
+[![tph-lk][tph]][tph-lk]
 <!------------------------contact----------------------->
 [![gh-lk][cn]][gh-lk] <br>
 [![tg-lk][tg]][tg-lk] [![ml][ml-b]][ml] [![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![gh-lk][gh]][gh-lk]
