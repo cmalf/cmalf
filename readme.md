@@ -18,6 +18,10 @@
 [cn]: https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&width=435&lines=%F0%9F%AB%B1%F0%9F%8F%BC%E2%80%8D%F0%9F%AB%B2%F0%9F%8F%BB+%EF%BC%A7%EF%BC%A5%EF%BC%B4+%EF%BC%A9%EF%BC%AE+%EF%BC%B4%EF%BC%AF%EF%BC%B5%EF%BC%A3%EF%BC%A8
 [stt-lk]: https://github.com/anuraghazra/github-readme-stats
 [str-lk]: https://git.io/streak-stats
+[tg-clk]: https://t.me/+1C6KHwq4HWE4OThl
+[tg-c]: https://img.shields.io/badge/Telegram_Channel:-The_Bot_Forge-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue
+[tg-g]: https://img.shields.io/badge/Telegram_Group:-TBF_Chat-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=gold
+[tg-glk]: https://t.me/+O_0eLwojWD03MDU1
 [stts]: https://github-readme-stats.vercel.app/api?username=cmalf&theme=vision-friendly-dark&rank_icon=github
 [strk]: https://streak-stats.demolab.com?user=cmalf&theme=highcontrast&hide_border=false
 [tl]: https://github-readme-stats.vercel.app/api/top-langs/?username=cmalf&layout=compact&hide_progress=false&theme=highcontrast
@@ -52,9 +56,10 @@
 [ms]: https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white
 [ml]: mailto:caturmahdi.alfurqon@icloud.com
 [ml-b]:https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[cff]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee!  
+[cff]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee! 
+[cffx]: https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BB36&center=true&vCenter=true&width=435&lines=%F0%9F%A4%8E+BUY+ME+COFFEE+%F0%9F%A4%8E
 [spp]: https://paypal.me/caturmahdialfurqon
-[spp-b]: https://img.shields.io/badge/I_APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00
+[spp-b]: https://img.shields.io/badge/‎APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold
 [pypl]: https://paypal.me/caturmahdialfurqon
 [eth-pol]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Support.md
 [btc]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Support.md
@@ -70,6 +75,9 @@
 [tph-lk]: https://github.com/ryo-ma/github-profile-trophy
 [tph]: https://github-profile-trophy.vercel.app/?username=cmalf&theme=chalk&no-bg=true&margin-w=15
 [gp]: https://img.shields.io/badge/Github_Page:-Flynn_Docs-B22222.svg?logo=github&logoColor=white&color=B22222
+[bn-b]: https://img.shields.io/badge/BINANCE_PAY_ID_:_745454545_.svg?&style=for-the-badge&logo=Github&logoColor=FF8C00&color=gold
+[bn]: https://img.shields.io/badge/BINANCE_PAY_ID_:_96771283-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold
+[bn-lk]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Binance-pay-code.jpeg
 <!-------END-Configuration--------STARTING_h1----------->
 
 <div align="center">
@@ -77,6 +85,7 @@
 [![vs-lk][vws]][vs-lk]
 [![fd][gp]][fd] <br><br>
 <!--[![gh-lk][t3]][gh-lk]-->
+
 <!-----------------------me-and-gale-------------------->
 [<img src="https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506" title="prompt=(anime art of A man carefully cleaning his pet frog's tank, ensuring its health and happiness:1.2), masterpiece, 4k, best quality, anime art
 negativePrompt=(worst quality, low quality:1.3), , low-quality, deformed, text, poorly drawn, hilariously bad drawing, bad 3D render
@@ -84,6 +93,10 @@ guidanceScale=7
 seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506) [<img src="galebino/galebino-2.jpeg" title="I adopted Galebino as a tiny pacman frog tadpole on June 16, 2023. It's been a joy watching him grow." alt="packman_frog" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://www.instagram.com/stories/highlights/17945324393890000/) <br>
 𝘐 𝘢𝘥𝘰𝘳𝘦 𝘩𝘪𝘮 [𓂋⤴](https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/galebino/galebino-2.jpeg)
 <!------------------------about-me---------------------->
+<div align=left >
+<br>  
+  
+[![tg-clk][tg-c]][tg-clk] <br> [![tg-glk][tg-g]][tg-glk]
 <div align=left > <hr>
 
 Greetings, fellow code conjurer! 👋 <br>
@@ -117,6 +130,15 @@ Let's create something extraordinary together! 💫 <hr>
 [![gh-lk][cn]][gh-lk] <br>
 [![tg-lk][tg]][tg-lk] [![ml][ml-b]][ml] [![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![gh-lk][gh]][gh-lk]
 <!------------------------support----------------------->
-[![tp-tx-lk][cff]][tp-tx-lk] <br>
-[![Pypl][pypl-b]][pypl] <br> [![eth-pol][ethx]][eth-pol] <br> [![btc][btc-b]][btc] <br> [![sol][sol-b]][sol] <br> [![eth-pol][pol-b]][eth-pol] <br> [![spp][spp-b]][spp] <hr>
+
+|[![tp-tx-lk][cffx]][tp-tx-lk]|🤎|
+| -------- | ------- |
+|[![Pypl][pypl-b]][pypl]|☕️| 
+[![eth-pol][ethx]][eth-pol]|🍵|
+|[![btc][btc-b]][btc]|☕️|
+|[![sol][sol-b]][sol]|🍵|
+|[![eth-pol][pol-b]][eth-pol]|☕️|
+|[![spp][spp-b]][spp]|🤎|
+|<img src="https://github.com/user-attachments/assets/7fcab578-b4e7-4709-9732-0be09a15116b" widht=150 height=250 > [![bn-lk][bn]][bn-lk]|🔶| <hr>
 <!-------------------------END-------------------------->
+
