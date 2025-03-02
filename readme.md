@@ -19,8 +19,8 @@
 [stt-lk]: https://github.com/anuraghazra/github-readme-stats
 [str-lk]: https://git.io/streak-stats
 [tg-clk]: https://t.me/+1C6KHwq4HWE4OThl
-[tg-c]: https://img.shields.io/badge/Telegram_Channel:-The_Bot_Forge-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue
-[tg-g]: https://img.shields.io/badge/Telegram_Group:-TBF_Chat-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=gold
+[tg-c]: https://img.shields.io/badge/Telegram_Channel:-The_Digital_Alchemist_(CMALF)-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue
+[tg-g]: https://img.shields.io/badge/Telegram_Group:-TDA_(CMALF)_Chat-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=gold
 [tg-glk]: https://t.me/+O_0eLwojWD03MDU1
 [stts]: https://github-readme-stats.vercel.app/api?username=cmalf&theme=vision-friendly-dark&rank_icon=github
 [strk]: https://streak-stats.demolab.com?user=cmalf&theme=highcontrast&hide_border=false
