@@ -87,7 +87,9 @@
 <!--[![gh-lk][t3]][gh-lk]-->
 
 <!-----------------------me-and-gale-------------------->
-[<img src="https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506" title="prompt=(anime art of A man carefully cleaning his pet frog's tank, ensuring its health and happiness:1.2), masterpiece, 4k, best quality, anime art
+<img src="https://github.com/user-attachments/assets/9447336d-d602-4cb8-afb2-82058d4aa34c" widht=400 height=465 >
+<!--[![Check out cmalf's profile on stardev.io](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://stardev.io/developers/cmalf)
+<!-----------------------me-and-gale--------------------[<img src="https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506" title="prompt=(anime art of A man carefully cleaning his pet frog's tank, ensuring its health and happiness:1.2), masterpiece, 4k, best quality, anime art
 negativePrompt=(worst quality, low quality:1.3), , low-quality, deformed, text, poorly drawn, hilariously bad drawing, bad 3D render
 guidanceScale=7
 seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506) [<img src="galebino/galebino-2.jpeg" title="I adopted Galebino as a tiny pacman frog tadpole on June 16, 2023. It's been a joy watching him grow." alt="packman_frog" width="100" height="100" style="float: right; margin-left: 10px;"/>&nbsp;](https://www.instagram.com/stories/highlights/17945324393890000/) <br>
@@ -101,7 +103,7 @@ seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;
 
 Greetings, fellow code conjurer! 👋 <br>
 
-I'm `Furqonflynn`, a digital alchemist who spends my days weaving intricate digital tapestries and herding the elusive ones and zeros. <br> When I'm not immersed in the magical world of code, you might find me tending to my trusty companion, `Galebino` the frog. 🐸 <br>
+I'm [`CMALF`](https://github.com/cmalf), a digital alchemist who spends my days weaving intricate digital tapestries and herding the elusive ones and zeros. <br> When I'm not immersed in the magical world of code, you might find me tending to my trusty companion, [`Galebino`](https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/galebino/galebino.jpeg) the frog. 🐸 <br>
 
 I'm a passionate developer who believes that every line of code is a brushstroke on the canvas of innovation. 🎨 <br>
 
@@ -128,9 +130,9 @@ Let's create something extraordinary together! 💫 <hr>
 [![tph-lk][tph]][tph-lk]
 <!------------------------contact----------------------->
 [![gh-lk][cn]][gh-lk] <br>
-[![tg-lk][tg]][tg-lk] [![ml][ml-b]][ml] [![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![gh-lk][gh]][gh-lk]
+[![tg-lk][tg]][tg-lk] [![ml][ml-b]][ml] [![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![gh-lk][gh]][gh-lk] <hr>
 <!------------------------support----------------------->
-
+[![spp][spp-b]][spp]
 |[![tp-tx-lk][cffx]][tp-tx-lk]|🤎|
 | -------- | ------- |
 |[![Pypl][pypl-b]][pypl]|☕️| 
@@ -138,7 +140,6 @@ Let's create something extraordinary together! 💫 <hr>
 |[![btc][btc-b]][btc]|☕️|
 |[![sol][sol-b]][sol]|🍵|
 |[![eth-pol][pol-b]][eth-pol]|☕️|
-|[![spp][spp-b]][spp]|🤎|
 |<img src="https://github.com/user-attachments/assets/7fcab578-b4e7-4709-9732-0be09a15116b" widht=150 height=250 > [![bn-lk][bn]][bn-lk]|🔶| <hr>
 <!-------------------------END-------------------------->
 
