@@ -87,7 +87,9 @@
 <!--[![gh-lk][t3]][gh-lk]-->
 
 <!-----------------------me-and-gale-------------------->
-<img src="https://github.com/user-attachments/assets/9447336d-d602-4cb8-afb2-82058d4aa34c" widht=400 height=465 >
+<!--<img src="https://github.com/user-attachments/assets/9447336d-d602-4cb8-afb2-82058d4aa34c" widht=400 height=465 > -->
+![still awake](https://github.com/user-attachments/assets/2d1c7b36-d6f8-476f-8003-2dc3e34f78c3)
+
 <!--[![Check out cmalf's profile on stardev.io](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://stardev.io/developers/cmalf)
 <!-----------------------me-and-gale--------------------[<img src="https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506" title="prompt=(anime art of A man carefully cleaning his pet frog's tank, ensuring its health and happiness:1.2), masterpiece, 4k, best quality, anime art
 negativePrompt=(worst quality, low quality:1.3), , low-quality, deformed, text, poorly drawn, hilariously bad drawing, bad 3D render
