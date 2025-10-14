@@ -44,7 +44,7 @@
 [trd-lk]: https://threads.net/thesilentreal
 [x-lk]: https://x.com/furqonflynn
 [dc-lk]: https://discord.com/user/968987915596202065
-[tg-lk]: https://telegram.me/furqonflynn
+[tg-lk]: https://telegram.me/djagocuan
 [ms-lk]: https://mastodon.social/@furqonflynn
 [gh-lk]: https://github.com/cmalf
 [ig]: https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white
@@ -99,10 +99,10 @@ seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;
 <!------------------------about-me---------------------->
 <div align=left >
 <br>  
-  
+<!--  
 [![tg-clk][tg-c]][tg-clk] <br> [![tg-glk][tg-g]][tg-glk]
 <div align=left > <hr>
-
+-->
 Greetings, fellow code conjurer! 👋 <br>
 
 I'm [`CMALF`](https://github.com/cmalf), a digital alchemist who spends my days weaving intricate digital tapestries and herding the elusive ones and zeros. <br> When I'm not immersed in the magical world of code, you might find me tending to my trusty companion, [`Galebino`](https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/galebino/galebino.jpeg) the frog. 🐸 <br>
@@ -132,7 +132,7 @@ Let's create something extraordinary together! 💫 <hr>
 [![tph-lk][tph]][tph-lk]
 <!------------------------contact----------------------->
 [![gh-lk][cn]][gh-lk] <br>
-[![tg-lk][tg]][tg-lk] [![ml][ml-b]][ml] [![ig-lk][ig]][ig-lk] [![trd-lk][trd]][trd-lk] [![x-lk][x]][x-lk] [![ms-lk][ms]][ms-lk] [![dc-lk][dc]][dc-lk] [![gh-lk][gh]][gh-lk] <hr>
+[![tg-lk][tg]][tg-lk] [![ml][ml-b]][ml]  [![gh-lk][gh]][gh-lk] <hr>
 <!------------------------support----------------------->
 [![spp][spp-b]][spp]
 |[![tp-tx-lk][cffx]][tp-tx-lk]|🤎|
