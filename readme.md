@@ -74,7 +74,7 @@
 [vws]: https://komarev.com/ghpvc/?username=cmalf&label=Profile%20views&color=00CED1&style=plastic
 [tph-lk]: https://github.com/ryo-ma/github-profile-trophy
 [tph]: https://github-profile-trophy.vercel.app/?username=cmalf&theme=chalk&no-bg=true&margin-w=15
-[gp]: https://img.shields.io/badge/Github_Page:-Flynn_Docs-B22222.svg?logo=github&logoColor=white&color=B22222
+[gp]: https://img.shields.io/badge/Github_Page:-CMALF_Pages-B22222.svg?logo=github&logoColor=white&color=B22222
 [bn-b]: https://img.shields.io/badge/BINANCE_PAY_ID_:_745454545_.svg?&style=for-the-badge&logo=Github&logoColor=FF8C00&color=gold
 [bn]: https://img.shields.io/badge/BINANCE_PAY_ID_:_96771283-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold
 [bn-lk]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Binance-pay-code.jpeg
@@ -83,7 +83,7 @@
 <div align="center">
   
 [![vs-lk][vws]][vs-lk]
-[![fd][gp]][fd] <br><br>
+
 <!--[![gh-lk][t3]][gh-lk]-->
 
 <!-----------------------me-and-gale-------------------->
@@ -99,10 +99,10 @@ seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;
 <!------------------------about-me---------------------->
 <div align=left >
 <br>  
-<!--  
-[![tg-clk][tg-c]][tg-clk] <br> [![tg-glk][tg-g]][tg-glk]
+ 
+[![fd][gp]][fd]
 <div align=left > <hr>
--->
+
 Greetings, fellow code conjurer! 👋 <br>
 
 I'm [`CMALF`](https://github.com/cmalf), a digital alchemist who spends my days weaving intricate digital tapestries and herding the elusive ones and zeros. <br> When I'm not immersed in the magical world of code, you might find me tending to my trusty companion, [`Galebino`](https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/galebino/galebino.jpeg) the frog. 🐸 <br>
