@@ -40,6 +40,9 @@
 [c++]: https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [pl]: https://img.shields.io/badge/Perl-39457E.svg?style=for-the-badge&logo=perl&logoColor=white
 [lua]: https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white
+[swift]: https://img.shields.io/badge/Swift-CC342D.svg?style=for-the-badge&logo=swift&logoColor=white
+[reactjs]: https://img.shields.io/badge/ReactJs-00ADD8.svg?style=for-the-badge&logo=react&logoColor=white
+[nextjs]: https://img.shields.io/badge/NextJs-007ACC.svg?style=for-the-badge&logo=next&logoColor=white
 [ig-lk]: https://instagram.com/thesilentreal
 [trd-lk]: https://threads.net/thesilentreal
 [x-lk]: https://x.com/furqonflynn
@@ -103,21 +106,13 @@ seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;
 [![fd][gp]][fd]
 <div align=left > <hr>
 
-Greetings, fellow code conjurer! 👋 <br>
+Hi, I’m [`Cmalf`](https://github.com/cmalf) 👋. I see programming languages as tools, and I believe the best solutions come from choosing the right tool for the job. <br> As a language-agnostic developer, my focus is on applying core engineering principles to build robust, scalable, and effective software. <br> I’m passionate about solving complex problems and always eager to collaborate. 🤝
+<hr>
 
-I'm [`CMALF`](https://github.com/cmalf), a digital alchemist who spends my days weaving intricate digital tapestries and herding the elusive ones and zeros. <br> When I'm not immersed in the magical world of code, you might find me tending to my trusty companion, [`Galebino`](https://raw.githubusercontent.com/cmalf/cmalf/refs/heads/main/galebino/galebino.jpeg) the frog. 🐸 <br>
-
-I'm a passionate developer who believes that every line of code is a brushstroke on the canvas of innovation. 🎨 <br>
-
-Feeling stuck in a coding rut? Let's break free together and embark on a new coding adventure! <br>
-
-Need a helping hand with your digital sorcery? Don't hesitate to reach out.<br> I'm always eager to share knowledge and collaborate on exciting projects.<br>
-
-Let's create something extraordinary together! 💫 <hr>
 <!------------------------skill------------------------->
 [![tp-tx-lk][h2]][tp-tx-lk] <br>
 ![sk] <br><br>
-![skm] ![ar] <br><br> [![gh-lk][bash]][gh-lk] [![gh-lk][php]][gh-lk] [![gh-lk][py]][gh-lk] [![gh-lk][js]][gh-lk] [![gh-lk][ts]][gh-lk] [![gh-lk][njs]][gh-lk] [![gh-lk][go]][gh-lk] [![gh-lk][rb]][gh-lk] [![gh-lk][pl]][gh-lk] [![gh-lk][lua]][gh-lk] [![gh-lk][jv]][gh-lk]  [![gh-lk][rs]][gh-lk] <hr>
+![skm] ![ar] <br><br> [![gh-lk][bash]][gh-lk] [![gh-lk][php]][gh-lk] [![gh-lk][py]][gh-lk] [![gh-lk][js]][gh-lk] [![gh-lk][ts]][gh-lk] [![gh-lk][njs]][gh-lk] [![gh-lk][go]][gh-lk] [![gh-lk][rb]][gh-lk] [![gh-lk][pl]][gh-lk] [![gh-lk][lua]][gh-lk] [![gh-lk][jv]][gh-lk]  [![gh-lk][rs]][gh-lk] [![gh-lk][swift]][gh-lk] [![gh-lk][reactjs]][gh-lk] [![gh-lk][nextjs]][gh-lk] <hr>
 ![mr-sklst] ![ar] <br><br> [![gh-lk][c]][gh-lk] [![gh-lk][c#]][gh-lk] [![gh-lk][c++]][gh-lk] <hr>
 ![m-trs] ![ar] <br><br> ![wc] ![blk] ![eh] ![hck] ![bs]
 <hr>
