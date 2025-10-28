@@ -103,7 +103,10 @@ seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;
 <div align=left >
 <br>  
  
-[![fd][gp]][fd]
+[![fd][gp]][fd] <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Eczar&pause=1000&color=EFF7E5&width=435&lines=%F0%9F%93%8C++Dedicated+to+the+vision+of+its+original+creator%2C;%F0%9F%93%8C++and+managed+by+the+DJG+Group.)](https://git.io/typing-svg)
+
 <div align=left > <hr>
 
 Hi, I’m [`Cmalf`](https://github.com/cmalf) 👋. I see programming languages as tools, and I believe the best solutions come from choosing the right tool for the job. <br> As a language-agnostic developer, my focus is on applying core engineering principles to build robust, scalable, and effective software. <br> I’m passionate about solving complex problems and always eager to collaborate. 🤝
