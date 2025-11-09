@@ -57,22 +57,18 @@
 [tg]: https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white
 [gh]: https://img.shields.io/badge/Github-100000.svg?style=for-the-badge&logo=github&logoColor=white
 [ms]: https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white
-[ml]: mailto:caturmahdi.alfurqon@icloud.com
+[ml]: mailto:xcmalf@gmail.com
 [ml-b]:https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [cff]: https://readme-typing-svg.herokuapp.com?font=Creepster&size=25&color=FFFFFF&center=false&lines=Buy+Me+Coffee! 
 [cffx]: https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BB36&center=true&vCenter=true&width=435&lines=%F0%9F%A4%8E+BUY+ME+COFFEE+%F0%9F%A4%8E
-[spp]: https://paypal.me/caturmahdialfurqon
 [spp-b]: https://img.shields.io/badge/‎APPRECIATE_YOUR-SUPPORT-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold
-[pypl]: https://paypal.me/caturmahdialfurqon
 [eth-pol]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Support.md
 [btc]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Support.md
 [sol]: https://github.com/cmalf/cmalf/blob/main/QR-Code/Support.md
-[pypl-b]: https://img.shields.io/badge/Paypal-00457C.svg?&style=for-the-badge&logo=paypal&logoColor=white
 [eth-b]: https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?&style=for-the-badge&color=blue
-[ethx]: https://img.shields.io/badge/Ethereum-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-blue?&style=for-the-badge&logo=Ethereum&logoColor=blue
-[btc-b]: https://img.shields.io/badge/Bitcoin-bc1qf8d3fcl4zf08qy3ecz8jyw3cf8y8urd0s2g32s-FF8C00.svg?&style=for-the-badge&logo=bitcoin&logoColor=FF8C00
-[sol-b]: https://img.shields.io/badge/SOL-73hvmQLGmfxXiJqvqiG2MwZReC9H3tFusZJGfffrBHpy-9B59B6.svg?&style=for-the-badge&logo=solana&logoColor=9B59B6
-[pol-b]: https://img.shields.io/badge/POL-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-cyan.svg?&style=for-the-badge&logo=POLYGON&logoColor=cyan
+[ethx]: https://img.shields.io/badge/Evm-0xbeD69b650fDdB6FBB528B0fF7a15C24DcAd87FC4-blue?&style=for-the-badge&logo=Ethereum&logoColor=blue
+[btc-b]: https://img.shields.io/badge/Bitcoin-bc1qje4a58m2mu4fg28l3z34nk5f2ftkmm5p7mr50d-FF8C00.svg?&style=for-the-badge&logo=bitcoin&logoColor=FF8C00
+[sol-b]: https://img.shields.io/badge/SOL-SoLMyRa3FGfjSD8ie6bsXK4g4q8ghSZ4E6HQzXhyNGG-9B59B6.svg?&style=for-the-badge&logo=solana&logoColor=9B59B6
 [vs-lk]: https://github.com/antonkomarev/github-profile-views-counter
 [vws]: https://komarev.com/ghpvc/?username=cmalf&label=Profile%20views&color=00CED1&style=plastic
 [tph-lk]: https://github.com/ryo-ma/github-profile-trophy
@@ -132,14 +128,12 @@ Hi, I’m [`Cmalf`](https://github.com/cmalf) 👋. I see programming languages 
 [![gh-lk][cn]][gh-lk] <br>
 [![tg-lk][tg]][tg-lk] [![ml][ml-b]][ml]  [![gh-lk][gh]][gh-lk] <hr>
 <!------------------------support----------------------->
-[![spp][spp-b]][spp]
+[![gh-lk][spp-b]][gh-lk]
 |[![tp-tx-lk][cffx]][tp-tx-lk]|🤎|
 | -------- | ------- |
-|[![Pypl][pypl-b]][pypl]|☕️| 
 [![eth-pol][ethx]][eth-pol]|🍵|
 |[![btc][btc-b]][btc]|☕️|
 |[![sol][sol-b]][sol]|🍵|
-|[![eth-pol][pol-b]][eth-pol]|☕️|
 |<img src="https://github.com/user-attachments/assets/7fcab578-b4e7-4709-9732-0be09a15116b" widht=150 height=250 > [![bn-lk][bn]][bn-lk]|🔶| <hr>
 <!-------------------------END-------------------------->
 
