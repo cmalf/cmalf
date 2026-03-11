@@ -87,8 +87,8 @@
 
 <!-----------------------me-and-gale-------------------->
 <!--<img src="https://github.com/user-attachments/assets/9447336d-d602-4cb8-afb2-82058d4aa34c" widht=400 height=465 > -->
-![still awake](https://github.com/user-attachments/assets/2d1c7b36-d6f8-476f-8003-2dc3e34f78c3)
-
+<!--![still awake](https://github.com/user-attachments/assets/2d1c7b36-d6f8-476f-8003-2dc3e34f78c3)-->
+<img src="https://github.com/user-attachments/assets/2d1c7b36-d6f8-476f-8003-2dc3e34f78c3" widht=400 height=465 >
 <!--[![Check out cmalf's profile on stardev.io](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://stardev.io/developers/cmalf)
 <!-----------------------me-and-gale--------------------[<img src="https://github.com/user-attachments/assets/93f783fe-2563-4ba3-a378-b47c49119506" title="prompt=(anime art of A man carefully cleaning his pet frog's tank, ensuring its health and happiness:1.2), masterpiece, 4k, best quality, anime art
 negativePrompt=(worst quality, low quality:1.3), , low-quality, deformed, text, poorly drawn, hilariously bad drawing, bad 3D render
@@ -100,9 +100,9 @@ seed=752697701" width="100" height="100" style="float: right; margin-left: 10px;
 <br>  
  
 [![fd][gp]][fd] <br>
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Eczar&pause=1000&color=EFF7E5&width=435&lines=%F0%9F%93%8C++Dedicated+to+the+vision+of+its+original+creator%2C;%F0%9F%93%8C++and+managed+by+the+DJG+Group.)](https://git.io/typing-svg)
-
+-->
 <div align=left > <hr>
 
 Hi, I’m [`Cmalf`](https://github.com/cmalf) 👋. I see programming languages as tools, and I believe the best solutions come from choosing the right tool for the job. <br> As a language-agnostic developer, my focus is on applying core engineering principles to build robust, scalable, and effective software. <br> I’m passionate about solving complex problems and always eager to collaborate. 🤝
